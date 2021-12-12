@@ -1,0 +1,13 @@
+li{
+    font-size: 20px;
+    text-align: center;
+}
+.sub{
+    font-weight: 900;
+}
+#conditions{
+    font-size: 30px;
+}
+#weather_icon{
+    height: 60px;
+}
